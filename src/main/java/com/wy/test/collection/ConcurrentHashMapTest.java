@@ -1,12 +1,10 @@
 package com.wy.test.collection;
 
-import static org.junit.Assert.*;
 
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
-import org.junit.Test;
 
 /**
  * Project Name: test File Name: ConcurrentHashMapTest.java ClassName:
@@ -21,7 +19,6 @@ import org.junit.Test;
  */
 public class ConcurrentHashMapTest {
 
-    @Test
     public void test() {
 	ConcurrentMap<String, Object> test = new ConcurrentHashMap<String, Object>();
 	for (int i = 0; i < 100; i++) {
@@ -32,7 +29,6 @@ public class ConcurrentHashMapTest {
 	    test.remove(entry.getKey());
 	}
 
-	assertTrue(test.size() == 0);
     }
 
 }
