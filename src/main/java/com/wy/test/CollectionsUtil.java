@@ -15,7 +15,7 @@ import java.util.List;
  * @author  LinZhiWei  
  * @date    2015年3月18日 下午3:43:02
  * 
- * Copyright (c) 2015年, 4399 Network CO.ltd. All Rights Reserved.
+ * Copyright (c) 2015年,  Network CO.ltd. All Rights Reserved.
  */
 public class CollectionsUtil
 {
