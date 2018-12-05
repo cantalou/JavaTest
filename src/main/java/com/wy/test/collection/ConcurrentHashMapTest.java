@@ -15,7 +15,7 @@ import java.util.concurrent.ConcurrentMap;
  * @author LinZhiWei
  * @date 2015年4月28日 上午11:19:23
  * 
- *       Copyright (c) 2015年, 4399 Network CO.ltd. All Rights Reserved.
+ *       Copyright (c) 2015年,  Network CO.ltd. All Rights Reserved.
  */
 public class ConcurrentHashMapTest {
 
