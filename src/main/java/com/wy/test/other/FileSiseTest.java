@@ -12,7 +12,7 @@ import java.text.DecimalFormat;
  * @author LinZhiWei
  * @date 2015年4月24日 上午10:47:13
  * 
- *       Copyright (c) 2015年, 4399 Network CO.ltd. All Rights Reserved.
+ *       Copyright (c) 2015年,  Network CO.ltd. All Rights Reserved.
  */
 public class FileSiseTest {
 
